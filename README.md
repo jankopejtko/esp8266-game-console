@@ -20,9 +20,9 @@ This project is a simple game console running on an ESP8266 with an OLED display
 
 - **Main Menu:**  
   When the ESP8266 starts, a menu is displayed on the screen. Use the following buttons to navigate:
-  - **Up Button:** Move the selection up.
-  - **Down Button:** Move the selection down.
-  - **Select (Right) Button:** Confirm your selection and launch the game.
+  - **Left Button:** Move the selection up.
+  - **Right Button:** Move the selection down.
+  - **Select (Up) Button:** Confirm your selection and launch the game.
 
 - **In-Game Controls:**  
   Each game has its own control scheme:
@@ -42,6 +42,7 @@ The `img` directory contains screenshots and diagrams:
 - `game over.jpg`
 - `menu.jpg`
 - `physical layout.jpg`
+- `Schematic_esp-game-console.jpg`
 - `Snake.jpg`
 
 ## License
